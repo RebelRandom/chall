@@ -1,2 +1,1 @@
-NOTE TO SELF: DELETE THE FLAG
-customCTF{71m3_m4ch1n3_0nl1n3}
+
